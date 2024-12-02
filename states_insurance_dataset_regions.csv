@@ -1,5 +1,5 @@
-US Regions,Uninsured Rate (2015) Average
-West,0.098308
-South,0.111357
-Midwest,0.074667
-Northeast,0.059636
+US Regions,Uninsured Rate (2015) Average,Average Monthly Tax Credit (2016),Employer Health Insurance Coverage (2015) Percentage,Medicaid Enrollment (2016) Percentage
+West,0.098308,312.69,0.523572,0.225732
+South,0.111357,313.07,0.497540,0.220678
+Midwest,0.074667,270.67,0.579352,0.184631
+Northeast,0.059636,261.27,0.585284,0.244918
